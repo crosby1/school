@@ -1,0 +1,35 @@
+/*
+	New Perspectives on HTML and CSS
+      Tutorial 10
+      Case Problem 4
+
+      Happy Birthday News
+      Author: Jason Graham
+      Date:   9-16-16
+
+      Filename:         styles.htm
+      Supporting files: styles.css, logo.jpg, functions.js, modernizr-1.5.js
+*/
+body{
+	text-align: center;
+	background-color: yellow;
+}
+
+header{
+	padding-bottom: 10px;
+}
+
+div{
+	margin: auto;
+	width: 450px;
+	background: #200080;
+	color: white;
+	border: outset;
+	border-width: 10px;
+	padding-bottom: 10px;
+ }
+
+p{
+
+	margin-bottom: 1px;
+}
